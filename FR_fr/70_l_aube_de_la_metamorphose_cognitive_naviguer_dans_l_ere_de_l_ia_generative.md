@@ -1,3 +1,11 @@
+ **Auteur**: Stéphane Wootha Richard  
+**Licence**: Licence Open Reasoning Dataset v0.1  
+**Projet**: #Resistome - Données de Pensée Ouverte  
+**Description**: Ce document fait partie du Résistome, un effort collaboratif pour favoriser une intelligence collective ouverte et éthique.  
+**Note**: Veuillez vous référer à LICENCE.md pour les conditions d’utilisation et à README.md pour la philosophie et les objectifs du projet.
+
+---
+
 # Introduction - L'Aube de la Métamorphose Cognitive : Au-delà de l'Illusion Adaptative
 
 L'émergence de l'intelligence artificielle générative marque bien plus qu'une simple évolution technologique : elle incarne une rupture épistémologique fondamentale qui ébranle les fondements mêmes de nos structures cognitives et organisationnelles. Cette transformation ne se limite pas à l'automatisation de tâches complexes ou à l'optimisation de processus existants. Elle inaugure une reconfiguration radicale de notre rapport au savoir, à la création et à la conscience elle-même. L'erreur serait de croire qu'une simple adaptation incrémentale suffira à naviguer cette métamorphose – comme si nous pouvions traverser un changement de paradigme en conservant intacts nos cadres de pensée et nos modes d'organisation.

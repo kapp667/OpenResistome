@@ -1,3 +1,11 @@
+ **Auteur**: Stéphane Wootha Richard  
+**Licence**: Licence Open Reasoning Dataset v0.1  
+**Projet**: #Resistome - Données de Pensée Ouverte  
+**Description**: Ce document fait partie du Résistome, un effort collaboratif pour favoriser une intelligence collective ouverte et éthique.  
+**Note**: Veuillez vous référer à LICENCE.md pour les conditions d’utilisation et à README.md pour la philosophie et les objectifs du projet.
+
+---
+
 ### 4. Dimension Humaine, Éthique et Valeurs : Les Défis de la Disruption Technologique  
 *Réflexion stratégique et philosophique sur la place de l’humain et des valeurs à l’ère de l’IA*
 

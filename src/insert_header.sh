@@ -2,42 +2,43 @@
 #
 # insert_header.sh
 #
-# Insère le contenu d'un fichier d'en-tête au début de fichiers correspondant
-# à un motif (pattern).
-# Exemple d'utilisation :
-#   ./insert_header.sh src/standard_header_fr.md "FR_fr/*.md"
+# Inserts header content at the beginning of specified files.
+# Usage examples:
+#   ./insert_header.sh src/standard_header_en.md "EN_en/*.md"
+#   ./insert_header.sh src/standard_header_en.md EN_en/001_Manifesto.md EN_en/002_Article.md
 # 
-# ATTENTION : ce script modifie directement les fichiers originaux.
-# Assurez-vous d'avoir fait une sauvegarde ou un commit Git préalable.
+# WARNING: this script directly modifies original files.
+# Make sure you have a backup or Git commit before proceeding.
 
-fichier_entete="$1"
-motif="$2"
+header_file="$1"
+shift  # Remove first argument so $@ contains only target files
+files=("$@")
 
-# Vérification des paramètres
-if [ -z "$fichier_entete" ] || [ -z "$motif" ]; then
-  echo "Utilisation : $0 <fichier_entete> <motif_fichiers>"
+# Check parameters
+if [ -z "$header_file" ] || [ ${#files[@]} -eq 0 ]; then
+  echo "Usage: $0 <header_file> [files...]"
   exit 1
 fi
 
-# Vérifie que le fichier d'en-tête existe
-if [ ! -f "$fichier_entete" ]; then
-  echo "Fichier d'en-tête introuvable : $fichier_entete"
+# Check if header file exists
+if [ ! -f "$header_file" ]; then
+  echo "Header file not found: $header_file"
   exit 1
 fi
 
-# Parcourt chaque fichier correspondant au motif
-for fichier_cible in $motif; do
-  # Vérifie qu'il s'agit bien d'un fichier et qu'il n'est pas le fichier d'en-tête lui-même
-  if [ -f "$fichier_cible" ] && [ "$fichier_cible" != "$fichier_entete" ]; then
-    # Crée un fichier temporaire
+# Process each specified file
+for target_file in "${files[@]}"; do
+  # Check if it's a valid file and not the header file itself
+  if [ -f "$target_file" ] && [ "$target_file" != "$header_file" ]; then
+    # Create temporary file
     temp_file="$(mktemp)"
 
-    # Concatène l'en-tête + le contenu original
-    cat "$fichier_entete" "$fichier_cible" > "$temp_file"
+    # Concatenate header + original content
+    cat "$header_file" "$target_file" > "$temp_file"
 
-    # Remplace le fichier cible par la nouvelle version
-    mv "$temp_file" "$fichier_cible"
+    # Replace target file with new version
+    mv "$temp_file" "$target_file"
 
-    echo "En-tête inséré dans : $fichier_cible"
+    echo "Header inserted in: $target_file"
   fi
 done 

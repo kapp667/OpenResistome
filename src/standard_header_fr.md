@@ -5,3 +5,4 @@
 **Note**: Veuillez vous référer à LICENCE.md pour les conditions d’utilisation et à README.md pour la philosophie et les objectifs du projet.
 
 ---
+

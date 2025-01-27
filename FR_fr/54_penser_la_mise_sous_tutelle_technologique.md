@@ -1,3 +1,11 @@
+ **Auteur**: Stéphane Wootha Richard  
+**Licence**: Licence Open Reasoning Dataset v0.1  
+**Projet**: #Resistome - Données de Pensée Ouverte  
+**Description**: Ce document fait partie du Résistome, un effort collaboratif pour favoriser une intelligence collective ouverte et éthique.  
+**Note**: Veuillez vous référer à LICENCE.md pour les conditions d’utilisation et à README.md pour la philosophie et les objectifs du projet.
+
+---
+
 ### **Les Risques de la "Tutelle Technologique" : Une Analyse Approfondie**
 
 La "tutelle technologique" désigne la dépendance croissante des individus et des organisations envers les technologies pour accomplir des tâches cognitives ou décisionnelles. Bien que ces outils offrent des avantages en termes d'efficacité et de rapidité, ils posent des risques importants liés à l'érosion des capacités cognitives individuelles et collectives. Cet article explore ces risques en s'appuyant sur des recherches scientifiques et des études empiriques, tout en proposant des pistes pour atténuer leurs effets.
