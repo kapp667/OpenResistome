@@ -6,10 +6,6 @@
 
 ---
 
-Voici la version améliorée de l'article, intégrant les corrections et suggestions issues de l'évaluation précédente :
-
----
-
 **IA Générative et Biens Symboliques : Le Défi de la Simulation Épistémique**
 
 **Introduction : L'IA au Carrefour de la Connaissance et de la Réalité**

@@ -1,142 +1,142 @@
- **Auteur**: Stéphane Wootha Richard  
-**Licence**: Licence Open Reasoning Dataset v0.1  
-**Projet**: #Resistome - Données de Pensée Ouverte  
-**Description**: Ce document fait partie du Résistome, un effort collaboratif pour favoriser une intelligence collective ouverte et éthique.  
-**Note**: Veuillez vous référer à LICENCE.md pour les conditions d’utilisation et à README.md pour la philosophie et les objectifs du projet.
+**Author**: Stéphane Wootha Richard  
+**License**: Open Reasoning Dataset License v0.1  
+**Project**: #Resistome - Open Thought Data  
+**Description**: This document is part of the Resistome, a collaborative effort to foster open and ethical collective intelligence.  
+**Note**: Please refer to LICENSE.md for the terms of use and to README.md for the project's philosophy and objectives.
 
 ---
 
-### **Les Risques de la "Tutelle Technologique" : Une Analyse Approfondie**
+### **The Risks of "Technological Guardianship": An In-Depth Analysis**
 
-La "tutelle technologique" désigne la dépendance croissante des individus et des organisations envers les technologies pour accomplir des tâches cognitives ou décisionnelles. Bien que ces outils offrent des avantages en termes d'efficacité et de rapidité, ils posent des risques importants liés à l'érosion des capacités cognitives individuelles et collectives. Cet article explore ces risques en s'appuyant sur des recherches scientifiques et des études empiriques, tout en proposant des pistes pour atténuer leurs effets.
-
----
-
-## **I. Effets de la Tutelle Technologique sur les Individus**
-
-### 1. **Atrophie cognitive individuelle**
-Des études montrent que l'utilisation excessive de technologies comme les GPS, les chatbots ou les outils de recherche en ligne peut entraîner une diminution de certaines capacités cognitives, notamment :  
-- **Mémoire spatiale** : Les utilisateurs réguliers de GPS présentent une réduction de l'activité hippocampique, essentielle à la navigation et à la mémoire spatiale. Cela peut entraîner une perte progressive de la capacité à créer des cartes mentales et à s'orienter sans assistance technologique[2][6][13].  
-- **Pensée critique et résolution de problèmes** : La dépendance aux systèmes automatisés pour fournir des réponses ou des solutions peut réduire l'engagement actif dans le raisonnement, limitant ainsi le développement de compétences analytiques[4][10].  
-- **Capacités d'apprentissage** : En externalisant des tâches cognitives (comme se souvenir d'informations ou résoudre des problèmes), les individus risquent de moins solliciter leur cerveau, ce qui peut affaiblir leurs capacités globales d'apprentissage[14][11].
-
-### 2. **Perte d'autonomie cognitive**
-La tutelle technologique peut également diminuer l'autonomie cognitive, définie comme la capacité à réfléchir et décider par soi-même. Les recherches sur l'utilisation excessive des chatbots ou des algorithmes montrent que :  
-- Les utilisateurs tendent à accepter passivement les recommandations technologiques sans les remettre en question[24][37].  
-- L'absence d'engagement actif dans les processus cognitifs peut réduire la confiance en soi et augmenter le sentiment d'inadéquation face aux tâches complexes[4][10].
-
-### 3. **Impact psychologique**
-L'érosion des capacités cognitives s'accompagne souvent d'effets psychologiques négatifs, tels que :  
-- Une augmentation du stress et de l'anxiété lorsque la technologie échoue ou devient indisponible[11].  
-- Une diminution du sentiment d'accomplissement personnel lié à la résolution autonome de problèmes[4].  
+"Technological guardianship" refers to the growing dependence of individuals and organizations on technologies to perform cognitive or decision-making tasks. While these tools offer advantages in terms of efficiency and speed, they pose significant risks related to the erosion of individual and collective cognitive abilities. This article explores these risks by drawing on scientific research and empirical studies, while also proposing ways to mitigate their effects.
 
 ---
 
-## **II. Effets sur les Structures Organisationnelles**
+## **I. Effects of Technological Guardianship on Individuals**
 
-### 1. **Perte de mémoire organisationnelle**
-Les organisations qui s'appuient fortement sur des systèmes automatisés risquent de perdre leur mémoire collective, notamment lorsque :  
-- Les processus clés sont externalisés vers des outils numériques sans documentation adéquate[16][34].  
-- Les départs d'employés entraînent une perte irréversible de savoirs tacites non capturés dans les systèmes[34].  
+### 1. **Individual Cognitive Atrophy**
+Studies show that the excessive use of technologies such as GPS, chatbots, or online search tools can lead to a decline in certain cognitive abilities, including:
+- **Spatial memory**: Regular GPS users show reduced hippocampal activity, which is essential for navigation and spatial memory. This can lead to a gradual loss of the ability to create mental maps and navigate without technological assistance[2][6][13].
+- **Critical thinking and problem-solving**: Dependence on automated systems to provide answers or solutions can reduce active engagement in reasoning, thus limiting the development of analytical skills[4][10].
+- **Learning abilities**: By outsourcing cognitive tasks (such as remembering information or solving problems), individuals may use their brains less, which can weaken their overall learning abilities[14][11].
 
-Cette perte est aggravée par le phénomène dit de "deskilling organisationnel", où les compétences humaines nécessaires à certains processus disparaissent faute d'utilisation régulière.
+### 2. **Loss of Cognitive Autonomy**
+Technological guardianship can also diminish cognitive autonomy, defined as the ability to think and decide for oneself. Research on the excessive use of chatbots or algorithms shows that:
+- Users tend to passively accept technological recommendations without questioning them[24][37].
+- The lack of active engagement in cognitive processes can reduce self-confidence and increase feelings of inadequacy when faced with complex tasks[4][10].
 
-### 2. **Risque d'homogénéisation cognitive**
-Les technologies automatisées tendent à standardiser les processus décisionnels, ce qui peut :  
-- Réduire la diversité cognitive au sein des équipes en favorisant un conformisme algorithmique[8][38].  
-- Limiter l'innovation en empêchant l'exploration de solutions non conventionnelles ou créatives[27].
-
-### 3. **Dépendance systémique**
-Une organisation trop dépendante de ses outils technologiques devient vulnérable face aux défaillances techniques ou aux changements rapides dans son environnement. Par exemple :  
-- Les systèmes automatisés peuvent reproduire ou amplifier des biais existants dans les données utilisées pour leur entraînement, compromettant ainsi la qualité des décisions prises[5][36].  
-- Une panne technologique critique peut paralyser toute une chaîne opérationnelle si aucune alternative humaine n'est disponible[19].
-
----
-
-## **III. Parallèles entre Individus et Organisations**
-
-Les effets observés au niveau individuel trouvent un écho à l'échelle organisationnelle :  
-| Niveau individuel | Niveau organisationnel |
-|--------------------|-------------------------|
-| Perte de mémoire spatiale due au GPS | Perte de mémoire organisationnelle liée à l'externalisation excessive |
-| Réduction du raisonnement critique avec les chatbots | Standardisation décisionnelle via les algorithmes |
-| Dépendance cognitive personnelle | Dépendance systémique organisationnelle |
-
-Ces parallèles soulignent que les mêmes mécanismes sous-jacents (externalisation cognitive, désengagement actif) affectent aussi bien les individus que les structures collectives.
+### 3. **Psychological Impact**
+The erosion of cognitive abilities is often accompanied by negative psychological effects, such as:
+- Increased stress and anxiety when technology fails or becomes unavailable[11].
+- A diminished sense of personal accomplishment related to autonomous problem-solving[4].
 
 ---
 
-## **IV. Stratégies pour Atténuer les Risques**
+## **II. Effects on Organizational Structures**
 
-### 1. **Réhabilitation cognitive**
-Pour contrer l'atrophie cognitive individuelle :  
-- Encourager un usage actif et critique des technologies (exemple : utiliser un GPS tout en essayant simultanément de mémoriser le trajet)[12].  
-- Intégrer des exercices cognitifs dans le quotidien (navigation sans assistance technologique, jeux stimulants)[11].
+### 1. **Loss of Organizational Memory**
+Organizations that rely heavily on automated systems risk losing their collective memory, especially when:
+- Key processes are outsourced to digital tools without adequate documentation[16][34].
+- Employee departures result in an irreversible loss of tacit knowledge not captured in the systems[34].
 
-### 2. **Renforcement de la mémoire organisationnelle**
-Pour éviter la perte de savoirs collectifs :  
-- Mettre en place des systèmes robustes de gestion des connaissances qui capturent non seulement les données explicites mais aussi les savoirs tacites via le mentorat ou la narration collaborative[16][30].  
-- Encourager la documentation systématique et accessible des processus critiques.
+This loss is exacerbated by the phenomenon known as "organizational deskilling," where human skills necessary for certain processes disappear due to lack of regular use.
 
-### 3. **Diversification cognitive**
-Pour limiter l'homogénéisation algorithmique :  
-- Favoriser la diversité cognitive dans les équipes (profils variés, perspectives interdisciplinaires)[38].  
-- Introduire une étape humaine critique dans tous les processus automatisés pour valider ou contester les recommandations algorithmiques[24].
+### 2. **Risk of Cognitive Homogenization**
+Automated technologies tend to standardize decision-making processes, which can:
+- Reduce cognitive diversity within teams by promoting algorithmic conformism[8][38].
+- Limit innovation by preventing the exploration of unconventional or creative solutions[27].
 
-### 4. **Développement d'une culture réflexive**
-Les organisations doivent cultiver une vigilance métacognitive pour identifier leurs propres biais et dépendances technologiques :  
-- Organiser régulièrement des audits cognitifs pour évaluer l'impact des technologies sur leurs processus internes[16][37].  
-- Former leurs collaborateurs à comprendre non seulement comment utiliser ces technologies mais aussi comment elles influencent leurs décisions.
+### 3. **Systemic Dependence**
+An organization that is overly dependent on its technological tools becomes vulnerable to technical failures or rapid changes in its environment. For example:
+- Automated systems can reproduce or amplify existing biases in the data used for their training, thus compromising the quality of decisions made[5][36].
+- A critical technological failure can paralyze an entire operational chain if no human alternative is available[19].
+
+---
+
+## **III. Parallels between Individuals and Organizations**
+
+The effects observed at the individual level are mirrored at the organizational level:
+| Individual Level | Organizational Level |
+|---|---|
+| Loss of spatial memory due to GPS | Loss of organizational memory due to excessive outsourcing |
+| Reduction in critical reasoning with chatbots | Decision-making standardization via algorithms |
+| Personal cognitive dependence | Organizational systemic dependence |
+
+These parallels highlight that the same underlying mechanisms (cognitive outsourcing, active disengagement) affect both individuals and collective structures.
+
+---
+
+## **IV. Strategies to Mitigate Risks**
+
+### 1. **Cognitive Rehabilitation**
+To counter individual cognitive atrophy:
+- Encourage active and critical use of technologies (e.g., using GPS while simultaneously trying to memorize the route)[12].
+- Integrate cognitive exercises into daily life (navigation without technological assistance, stimulating games)[11].
+
+### 2. **Strengthening Organizational Memory**
+To prevent the loss of collective knowledge:
+- Implement robust knowledge management systems that capture not only explicit data but also tacit knowledge through mentoring or collaborative storytelling[16][30].
+- Encourage systematic and accessible documentation of critical processes.
+
+### 3. **Cognitive Diversification**
+To limit algorithmic homogenization:
+- Foster cognitive diversity in teams (varied profiles, interdisciplinary perspectives)[38].
+- Introduce a critical human step in all automated processes to validate or challenge algorithmic recommendations[24].
+
+### 4. **Development of a Reflexive Culture**
+Organizations must cultivate metacognitive vigilance to identify their own biases and technological dependencies:
+- Regularly organize cognitive audits to assess the impact of technologies on their internal processes[16][37].
+- Train their employees to understand not only how to use these technologies but also how they influence their decisions.
 
 ---
 
 ## **V. Conclusion**
 
-La tutelle technologique est un phénomène ambivalent : elle peut améliorer nos performances tout en nous rendant vulnérables à long terme si elle n'est pas utilisée avec discernement. À travers une approche proactive et équilibrée, il est possible d'exploiter ses avantages tout en minimisant ses risques.
+Technological guardianship is an ambivalent phenomenon: it can improve our performance while making us vulnerable in the long term if not used with discernment. Through a proactive and balanced approach, it is possible to exploit its advantages while minimizing its risks.
 
-Pour cela, il est essentiel :  
-1. De maintenir un équilibre entre autonomie humaine et assistance technologique.  
-2. De préserver et enrichir les capacités cognitives individuelles comme collectives.  
-3. De concevoir des systèmes où humains et machines collaborent véritablement, plutôt que de déléguer aveuglément nos facultés critiques.
+To do this, it is essential to:
+1. Maintain a balance between human autonomy and technological assistance.
+2. Preserve and enrich both individual and collective cognitive abilities.
+3. Design systems where humans and machines truly collaborate, rather than blindly delegating our critical faculties.
 
-En fin de compte, il ne s'agit pas simplement d'adopter ces technologies mais de redéfinir notre relation avec elles afin qu'elles servent nos objectifs sans compromettre notre autonomie ni notre résilience intellectuelle collective.
+Ultimately, it is not simply a matter of adopting these technologies but of redefining our relationship with them so that they serve our objectives without compromising our autonomy or our collective intellectual resilience.
 
 Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/33499081/7b39c3fc-265a-4bd6-b6b4-fb924d50dfdc/52_Manifeste-Fondateur-de-ThinkOnEdge.md
-[2] https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.983019/full
-[3] https://www.youtube.com/watch?v=Xz0oVzyTN-4
-[4] https://pmc.ncbi.nlm.nih.gov/articles/PMC11020077/
-[5] http://arxiv.org/pdf/2407.19427.pdf
-[6] https://www.nature.com/articles/s41598-020-62877-0
-[7] https://pmc.ncbi.nlm.nih.gov/articles/PMC9868079/
-[8] https://atlan.com/collective-intelligence/
-[9] https://pmc.ncbi.nlm.nih.gov/articles/PMC6020662/
-[10] https://www.cnbc.com/2024/06/26/technology-reliance-causes-loss-of-cognitive-ability-psychologist.html
-[11] https://elearncollege.com/medicine-and-science/the-science-of-navigation-and-the-brain/
-[12] https://www.scientificamerican.com/article/how-gps-weakens-memory-mdash-and-what-we-can-do-about-it/
-[13] https://pmc.ncbi.nlm.nih.gov/articles/PMC8032695/
-[14] https://www.researchgate.net/publication/332869455_GPS_use_negatively_affects_environmental_learning_through_spatial_transformation_abilities
-[15] https://www.researchgate.net/publication/350732772_Rethinking_GPS_navigation_creating_cognitive_maps_through_auditory_clues
-[16] https://www.linkedin.com/pulse/looming-threat-knowledge-retention-crisis-companies-neglecting-digital
-[17] https://www.linkedin.com/pulse/navigating-age-ai-how-culture-knowledge-management-can-thiemo-bubel-qdore
-[18] https://vorecol.com/blogs/blog-how-can-technology-enhance-organizational-knowledge-management-practices-86469
-[19] https://www.researchgate.net/publication/368077389_Knowledge_loss_induced_by_organizational_member_turnover_a_review_of_empirical_literature_synthesis_and_future_research_directions_Part_I
-[20] https://www.linkedin.com/pulse/key-trends-role-technology-transforming-learning-impact-suvendu-dhar-fwfuc
-[21] https://ejst.samipubco.com/article_137068_eba4e9a6fe85ea03e30a15952395c0b3.pdf
-[22] https://www.researchgate.net/publication/276427247_The_Impact_of_Emerging_Technologies_on_Knowledge_Management_in_Organizations
-[23] https://pubsonline.informs.org/doi/10.1287/orsc.2021.1552
-[24] https://www.activemind.legal/guides/automated-decision-making-ai/
-[25] https://royalsocietypublishing.org/doi/10.1098/rsif.2022.0736
-[26] https://www.researchgate.net/publication/365781761_The_automation_of_management_decisions_A_systematic_review_and_research_agenda_of_the_factors_influencing_the_decision_to_increase_the_level_of_automation
-[27] https://www.researchgate.net/publication/356163310_Articulating_the_Role_of_Artificial_Intelligence_in_Collective_Intelligence_A_Transactive_Systems_Framework
-[28] https://vorecol.com/blogs/blog-how-can-remote-work-environments-impact-knowledge-management-strategies-in-organizations-155495
-[29] https://journals.sfu.ca/ijitls/index.php/ijitls/article/view/219
-[30] https://www.shiftbase.com/glossary/knowledge-management
-[31] https://journalspress.com/the-impact-of-technology-on-knowledge-retention-a-systematic-review/
-[32] https://www.mdpi.com/2071-1050/14/14/8602
-[33] https://tesi.luiss.it/32611/1/727951_PIU_SALVATORE.pdf
-[34] https://www.researchgate.net/publication/329373841_Organizational_knowledge_retention_and_knowledge_loss
-[35] https://www.linkedin.com/pulse/transform-decision-making-process-intelligent-john-rhodes
-[36] https://www.ombudsman.gov.au/__data/assets/pdf_file/0029/288236/OMB1188-Automated-Decision-Making-Report_Final-A1898885.pdf
-[37] https://sands.edpsciences.org/articles/sands/full_html/2023/01/sands20230010/sands20230010.html
-[38] https://www.oecd-ilibrary.org/docserver/ce863473-en.pdf?expires=1730771026&id=id&accname=guest&checksum=56C437230BA5869618EA58F3B0BD3BC0
+[1] [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/33499081/7b39c3fc-265a-4bd6-b6b4-fb924d50dfdc/52_Manifeste-Fondateur-de-ThinkOnEdge.md](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/33499081/7b39c3fc-265a-4bd6-b6b4-fb924d50dfdc/52_Manifeste-Fondateur-de-ThinkOnEdge.md)
+[2] [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.983019/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.983019/full)
+[3] [https://www.youtube.com/watch?v=Xz0oVzyTN-4](https://www.youtube.com/watch?v=Xz0oVzyTN-4)
+[4] [https://pmc.ncbi.nlm.nih.gov/articles/PMC11020077/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11020077/)
+[5] [http://arxiv.org/pdf/2407.19427.pdf](http://arxiv.org/pdf/2407.19427.pdf)
+[6] [https://www.nature.com/articles/s41598-020-62877-0](https://www.nature.com/articles/s41598-020-62877-0)
+[7] [https://pmc.ncbi.nlm.nih.gov/articles/PMC9868079/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9868079/)
+[8] [https://atlan.com/collective-intelligence/](https://atlan.com/collective-intelligence/)
+[9] [https://pmc.ncbi.nlm.nih.gov/articles/PMC6020662/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6020662/)
+[10] [https://www.cnbc.com/2024/06/26/technology-reliance-causes-loss-of-cognitive-ability-psychologist.html](https://www.cnbc.com/2024/06/26/technology-reliance-causes-loss-of-cognitive-ability-psychologist.html)
+[11] [https://elearncollege.com/medicine-and-science/the-science-of-navigation-and-the-brain/](https://elearncollege.com/medicine-and-science/the-science-of-navigation-and-the-brain/)
+[12] [https://www.scientificamerican.com/article/how-gps-weakens-memory-mdash-and-what-we-can-do-about-it/](https://www.scientificamerican.com/article/how-gps-weakens-memory-mdash-and-what-we-can-do-about-it/)
+[13] [https://pmc.ncbi.nlm.nih.gov/articles/PMC8032695/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8032695/)
+[14] [https://www.researchgate.net/publication/332869455_GPS_use_negatively_affects_environmental_learning_through_spatial_transformation_abilities](https://www.researchgate.net/publication/332869455_GPS_use_negatively_affects_environmental_learning_through_spatial_transformation_abilities)
+[15] [https://www.researchgate.net/publication/350732772_Rethinking_GPS_navigation_creating_cognitive_maps_through_auditory_clues](https://www.researchgate.net/publication/350732772_Rethinking_GPS_navigation_creating_cognitive_maps_through_auditory_clues)
+[16] [https://www.linkedin.com/pulse/looming-threat-knowledge-retention-crisis-companies-neglecting-digital](https://www.linkedin.com/pulse/looming-threat-knowledge-retention-crisis-companies-neglecting-digital)
+[17] [https://www.linkedin.com/pulse/navigating-age-ai-how-culture-knowledge-management-can-thiemo-bubel-qdore](https://www.linkedin.com/pulse/navigating-age-ai-how-culture-knowledge-management-can-thiemo-bubel-qdore)
+[18] [https://vorecol.com/blogs/blog-how-can-technology-enhance-organizational-knowledge-management-practices-86469](https://vorecol.com/blogs/blog-how-can-technology-enhance-organizational-knowledge-management-practices-86469)
+[19] [https://www.researchgate.net/publication/368077389_Knowledge_loss_induced_by_organizational_member_turnover_a_review_of_empirical_literature_synthesis_and_future_research_directions_Part_I](https://www.researchgate.net/publication/368077389_Knowledge_loss_induced_by_organizational_member_turnover_a_review_of_empirical_literature_synthesis_and_future_research_directions_Part_I)
+[20] [https://www.linkedin.com/pulse/key-trends-role-technology-transforming-learning-impact-suvendu-dhar-fwfuc](https://www.linkedin.com/pulse/key-trends-role-technology-transforming-learning-impact-suvendu-dhar-fwfuc)
+[21] [https://ejst.samipubco.com/article_137068_eba4e9a6fe85ea03e30a15952395c0b3.pdf](https://ejst.samipubco.com/article_137068_eba4e9a6fe85ea03e30a15952395c0b3.pdf)
+[22] [https://www.researchgate.net/publication/276427247_The_Impact_of_Emerging_Technologies_on_Knowledge_Management_in_Organizations](https://www.researchgate.net/publication/276427247_The_Impact_of_Emerging_Technologies_on_Knowledge_Management_in_Organizations)
+[23] [https://pubsonline.informs.org/doi/10.1287/orsc.2021.1552](https://pubsonline.informs.org/doi/10.1287/orsc.2021.1552)
+[24] [https://www.activemind.legal/guides/automated-decision-making-ai/](https://www.activemind.legal/guides/automated-decision-making-ai/)
+[25] [https://royalsocietypublishing.org/doi/10.1098/rsif.2022.0736](https://royalsocietypublishing.org/doi/10.1098/rsif.2022.0736)
+[26] [https://www.researchgate.net/publication/365781761_The_automation_of_management_decisions_A_systematic_review_and_research_agenda_of_the_factors_influencing_the_decision_to_increase_the_level_of_automation](https://www.researchgate.net/publication/365781761_The_automation_of_management_decisions_A_systematic_review_and_research_agenda_of_the_factors_influencing_the_decision_to_increase_the_level_of_automation)
+[27] [https://www.researchgate.net/publication/356163310_Articulating_the_Role_of_Artificial_Intelligence_in_Collective_Intelligence_A_Transactive_Systems_Framework](https://www.researchgate.net/publication/356163310_Articulating_the_Role_of_Artificial_Intelligence_in_Collective_Intelligence_A_Transactive_Systems_Framework)
+[28] [https://vorecol.com/blogs/blog-how-can-remote-work-environments-impact-knowledge-management-strategies-in-organizations-155495](https://vorecol.com/blogs/blog-how-can-remote-work-environments-impact-knowledge-management-strategies-in-organizations-155495)
+[29] [https://journals.sfu.ca/ijitls/index.php/ijitls/article/view/219](https://journals.sfu.ca/ijitls/index.php/ijitls/article/view/219)
+[30] [https://www.shiftbase.com/glossary/knowledge-management](https://www.shiftbase.com/glossary/knowledge-management)
+[31] [https://journalspress.com/the-impact-of-technology-on-knowledge-retention-a-systematic-review/](https://journalspress.com/the-impact-of-technology-on-knowledge-retention-a-systematic-review/)
+[32] [https://www.mdpi.com/2071-1050/14/14/8602](https://www.mdpi.com/2071-1050/14/14/8602)
+[33] [https://tesi.luiss.it/32611/1/727951_PIU_SALVATORE.pdf](https://tesi.luiss.it/32611/1/727951_PIU_SALVATORE.pdf)
+[34] [https://www.researchgate.net/publication/329373841_Organizational_knowledge_retention_and_knowledge_loss](https://www.researchgate.net/publication/329373841_Organizational_knowledge_retention_and_knowledge_loss)
+[35] [https://www.linkedin.com/pulse/transform-decision-making-process-intelligent-john-rhodes](https://www.linkedin.com/pulse/transform-decision-making-process-intelligent-john-rhodes)
+[36] [https://www.ombudsman.gov.au/__data/assets/pdf_file/0029/288236/OMB1188-Automated-Decision-Making-Report_Final-A1898885.pdf](https://www.ombudsman.gov.au/__data/assets/pdf_file/0029/288236/OMB1188-Automated-Decision-Making-Report_Final-A1898885.pdf)
+[37] [https://sands.edpsciences.org/articles/sands/full_html/2023/01/sands20230010/sands20230010.html](https://sands.edpsciences.org/articles/sands/full_html/2023/01/sands20230010/sands20230010.html)
+[38] [https://www.oecd-ilibrary.org/docserver/ce863473-en.pdf?expires=1730771026&id=id&accname=guest&checksum=56C437230BA5869618EA58F3B0BD3BC0](https://www.oecd-ilibrary.org/docserver/ce863473-en.pdf?expires=1730771026&id=id&accname=guest&checksum=56C437230BA5869618EA58F3B0BD3BC0)
