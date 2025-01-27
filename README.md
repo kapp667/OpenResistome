@@ -29,7 +29,7 @@ It means that **you are here at a turning point**. As powerful AI systems are be
 The term "Resistome" combines "resistance" with the suffix "-ome" (meaning a complete set, like genome or proteome). It represents our collective resistance to the monopolization of intelligence by corporate AI, and our commitment to building a complete, open map of human thought.
 
 ### 1. Beyond Data: Towards True Cognitive Augmentation
-At Resistome, we believe that **human thought, when shared and connected, becomes a form of natural cognitive augmentation**. We're not just collecting data; we’re **nurturing a global network of thinking** that honors each unique perspective. By pooling our reasoning—our questions, logic, disagreements—we aim to foster AI that understands nuance, empathizes with diverse viewpoints, and truly reflects humanity’s collective intelligence. **Resistome is about fostering cognitive resilience: the ability to think critically, to adapt to new information, and to resist manipulation and disinformation in all its forms, ultimately preserving the freedom of thought and autonomy.** **Resistome is about elevating human thought to its highest potential.**
+In the Resistome, we believe that **human thought, when shared and connected, becomes a form of natural cognitive augmentation**. We're not just collecting data; we're **nurturing a global network of thinking** that honors each unique perspective. By pooling our reasoning—our questions, logic, disagreements—we aim to foster AI that understands nuance, empathizes with diverse viewpoints, and truly reflects humanity's collective intelligence. **Resistome is about fostering cognitive resilience: the ability to think critically, to adapt to new information, and to resist manipulation and disinformation in all its forms, ultimately preserving the freedom of thought and autonomy.** **Resistome is about elevating human thought to its highest potential.**
 
 ### 2. A Counterbalance to Corporate AI
 While Big Tech trains its AI systems on sanitized, profit-driven datasets, Resistome offers a **transparent alternative**—a repository of authentic human reasoning that reflects the **richness, diversity, and complexity** of how humans actually think. This is our **intellectual arsenal** against the homogenization of thought.
@@ -78,7 +78,7 @@ The maintainer of this repository reserves the right to veto contributions that 
 
 2.  **Engage in Constructive Debate**: Challenge ideas, but do so with **respect and precision**. Use evidence, logic, and clarity to make your case. Avoid fallacies and personal attacks—**elevate the discourse**.
 
-3.  **Build and Explore**: Use our tools to navigate the reasoning graphs, discover connections, and contribute to the **evolution of collective intelligence**. Fork the repository, create new visualizations, and push the boundaries of what’s possible.
+3.  **Build and Explore**: Use our tools to navigate the reasoning graphs, discover connections, and contribute to the **evolution of collective intelligence**. Fork the repository, create new visualizations, and push the boundaries of what's possible.
 
 4.  **Co-Create with AI**: **Unlock the potential of AI to augment human reasoning.** Use AI tools responsibly and ethically to analyze the dataset, generate counter-arguments, explore alternative lines of reasoning. **Help us demonstrate how humans and AI can collaborate to achieve new heights of understanding, while safeguarding human autonomy and cognitive resilience.**
 
@@ -93,13 +93,13 @@ Resistome is more than a project; it's a **movement to reclaim and elevate human
 *   **[Read the Full Resistome Manifesto](EN_en/001_Resistome_Manifesto.md)**  
     Dive deeper into the philosophy of Resistome and our commitment to excellence in reasoning.
 
-*   **[Explore the Dataset](#)**  
+*   **[Explore the Dataset](https://github.com/thinkonedge/OpenResistome)**  
     Discover the reasoning graphs and see how ideas connect.
 
-*   **[Contribute Your Thoughts](#)**  
-    Join us—fork the repo, create an issue, propose a new perspective, or annotate someone else’s reasoning.
+*   **[Contribute Your Thoughts](https://github.com/thinkonedge/OpenResistome)**  
+    Join us—fork the repo, create an issue, propose a new perspective, or annotate someone else's reasoning.
 
-> **In a world of black-box AI, Resistome is our shared blueprint for an intelligence that’s truly human-aligned—and truly excellent.**
+> **In a world of black-box AI, Resistome is our shared blueprint for an intelligence that's truly human-aligned—and truly excellent.**
 
 **Come build the future with us.**
 
