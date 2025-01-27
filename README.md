@@ -51,7 +51,7 @@ We are not just collecting thoughts; we are **curating excellence**. Resistome i
 
 ## Our License
 
-Read, share, use, cite. No modification, no privatization. AI & collective intelligence are welcome. [Read the full license](LICENSE.md)
+Read, share, use, cite. No modification, no privatization. AI & collective intelligence are welcome. [Read the full license](LICENCE.md)
 
 
 ## Ethical Guidelines: Balancing Freedom and Responsibility
