@@ -4,7 +4,9 @@
 
 ## Préambule : 
 
-Notre Monde à l'Ère du Technocène Nous vivons dans une époque que nous appelons le Technocène - une ère où la technologie façonne chaque aspect de nos vies et de notre environnement. Des smartphones dans nos poches aux algorithmes qui influencent nos décisions, des caméras de surveillance omniprésentes aux réseaux sociaux qui modèlent nos interactions, la technologie est devenue le tissu même de notre société. Mais qui contrôle vraiment cette technologie ? Et à quelles fins est-elle utilisée ? Ce manifeste est un appel à l'éveil, à la résistance et à l'action. Face à ce que nous appelons le Dominatome - le système global de domination technologique - nous proposons une voie de résistance à la fois critique et pragmatique. Nous sommes le Résistome, un réseau mondial de communautés et d'individus déterminés à reprendre le contrôle de notre avenir technologique. 
+### Notre Monde à l'Ère du Technocène
+
+Nous vivons dans une époque que nous appelons le Technocène - une ère où la technologie façonne chaque aspect de nos vies et de notre environnement. Des smartphones dans nos poches aux algorithmes qui influencent nos décisions, des caméras de surveillance omniprésentes aux réseaux sociaux qui modèlent nos interactions, la technologie est devenue le tissu même de notre société. Mais qui contrôle vraiment cette technologie ? Et à quelles fins est-elle utilisée ? Ce manifeste est un appel à l'éveil, à la résistance et à l'action. Face à ce que nous appelons le Dominatome - le système global de domination technologique - nous proposons une voie de résistance à la fois critique et pragmatique. Nous sommes le Résistome, un réseau mondial de communautés et d'individus déterminés à reprendre le contrôle de notre avenir technologique. 
 
 ## 1. Le Dominatome : 
 
