@@ -90,7 +90,7 @@ Resistome is more than a project; it's a **movement to reclaim and elevate human
 
 ## Next Steps
 
-*   **[Read the Full Resistome Manifesto](EN_en/001_Resistome_Manifesto.md)**  
+*   **[Read the Full Technopirate Manifesto](EN_en/001_Technopirate_Manifesto.md)**  
     Dive deeper into the philosophy of Resistome and our commitment to excellence in reasoning.
 
 *   **[Explore the Dataset](https://github.com/thinkonedge/OpenResistome)**  

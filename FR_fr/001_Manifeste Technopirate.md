@@ -7,7 +7,7 @@
 
 ---
 
-# Manifeste du Résistome : La Résistance Humaine face au Technocène
+# Manifeste Technopirate : La Résistance Humaine face au Technocène
 
 ## Préambule :
 
